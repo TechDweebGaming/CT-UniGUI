@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ctunigui",
+  "name": "CT UniGUI",
+  "description": "Adds interfaces for the creation and editing of various CT scripts",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "techdweebgaming.github.io",
+  "updateUrl": "",
+  "authorList": ["TechDweebGaming"],
+  "credits": "The CT team & the developers of all the mods this supports",
+  "logoFile": "CTUniGUILogo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
