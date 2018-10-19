@@ -5,7 +5,7 @@
   "description": "Adds interfaces for the creation and editing of various CT scripts",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "techdweebgaming.github.io",
+  "url": "https://github.com/TechDweebGaming/CT-UniGUI",
   "updateUrl": "",
   "authorList": ["TechDweebGaming"],
   "credits": "The CT team & the developers of all the mods this supports",
